@@ -1,10 +1,11 @@
 # Kaggle-HousePricePredictions
 
-This repository contains the solution to the Kaggle challenge "House Prices - Advanced Regression Techniques." The goal of this competition is to predict the final price of residential homes in Ames, Iowa, using a dataset with 79 explanatory variables.
+This repository contains the solution to the Kaggle challenge "House Prices - Advanced Regression Techniques." 
+"The goal of this competition is to predict the final price of residential homes in Ames, Iowa, using a dataset with 79 explanatory variables."
 
 ## Introduction
 
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+"Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence."
 
 ## Dataset
 
