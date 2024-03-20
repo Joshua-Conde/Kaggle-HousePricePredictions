@@ -33,16 +33,9 @@ We experimented with several regression models including CatBoost, Bayesian Ridg
 
 We constructed an ensemble model using Bagging (Bootstrap Aggregation) with the best-performing individual models.
 
-## Usage
-
-To use this code:
-1. Clone this repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Jupyter Notebook `House_Price_Prediction.ipynb` to train and evaluate the models.
-
 ## Results
 
-The ensemble model achieved a root mean squared error (RMSE) of X on the validation set.
+The ensemble model achieved a root mean squared error (RMSE) of 0.12154.
 
 ## Future Work
 
